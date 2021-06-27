@@ -61,7 +61,7 @@ class _HomePageState extends State<HomePage> {
               height: 180.0,
             ),
             Text(
-              '$text',
+              '0',
               style: TextStyle(
                 decoration: TextDecoration.none,
                 fontFamily: 'Lato',
@@ -130,6 +130,7 @@ class _HomePageState extends State<HomePage> {
       ),
     );
   }
+}
 
   /*//Calculator logic
   dynamic text = '0';
